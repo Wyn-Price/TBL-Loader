@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tblloader",
+  "name": "TBL loader",
+  "description": "A mod used to load .tbl files as blocks.",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wyn Price"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
